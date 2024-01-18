@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Athithyaraagul Sureshkumar</h1>
-<img src="joshua-reddekopp-SyYmXSDnJ54-unsplash.jpg" alt="Athithyaraagul" width="500" height="300">
 <h3 align="center">An aspiring DevOps Engineer from Chennai</h3>
 
 - 🔭 I’m currently working on **AWS**
