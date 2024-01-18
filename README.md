@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently learning **AWS, React, Js**
+- 🌱 I’m currently learning **AWS, React, Js and Machine Learning**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
