@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **athithyaraagul05@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+<a href="https://www.linkedin.com/in/athithyaraagul-sureshkumar-512837251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a></h3>
 <p align="left">
 </p>
 
