@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Athithyaraagul Sureshkumar</h1>
 <h3 align="center">An aspiring DevOps Engineer from Chennai</h3>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **AWS, TensorFlow and PyTorch**
 
-- 🌱 I’m currently learning **AWS, React, Js**
+- 🌱 I’m currently learning **AWS, React, Js and Machine Learning**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
