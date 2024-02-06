@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athithyaraagul Sureshkumar</h1>
-<h3 align="center">An aspiring DevOps Engineer from Chennai</h3>
+<h3 align="center">A Python Engineer from Chennai</h3>
 
 - 🔭 I’m currently working on **AWS, TensorFlow and PyTorch**
 
