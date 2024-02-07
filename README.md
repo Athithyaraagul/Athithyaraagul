@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS and Machine Learning**
 
-- 🤝 I’m looking for help with **Cloud Development**
+- 🤝 I’m looking for help with **Cloud Development and Deployment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athithyaraagul?tab=repositories](https://github.com/Athithyaraagul?tab=repositories)
 
