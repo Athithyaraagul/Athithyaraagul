@@ -1,9 +1,9 @@
 <h1 align="center">Hello There, I am Athithyaraagul Sureshkumar</h1>
 <h3 align="center">A Python Engineer from Chennai</h3>
 
-- 🌱 I’m currently learning **Data Science and MLOps**
+- 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **Cloud Technologies and DevOps**
+- 🤝 I’m looking for help with **Cloud Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athithyaraagul?tab=repositories](https://github.com/Athithyaraagul?tab=repositories)
 
