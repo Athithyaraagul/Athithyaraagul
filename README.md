@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I am Athithyaraagul Sureshkumar</h1>
-<h3 align="center">A Python Engineer from Chennai</h3>
+<h3 align="center">A Student from Chennai</h3>
 
 - 🌱 I’m currently learning **DevOps**
 
