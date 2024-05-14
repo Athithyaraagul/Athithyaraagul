@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athithyaraagul?tab=repositories](https://github.com/Athithyaraagul?tab=repositories)
 
-- 💬 Ask me about **Machine Learning and NLP**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **athithyaraagul05@gmail.com**
 
