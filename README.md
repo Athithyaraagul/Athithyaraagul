@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **athithyaraagul05@gmail.com**
 
-- 📄 Have a look at my resume! [ https://drive.google.com/file/d/17hsFKyY59o1AE3w4jr5q4HvRW0hSjjRl/view?usp=drivesdk](https://drive.google.com/file/d/17hsFKyY59o1AE3w4jr5q4HvRW0hSjjRl/view?usp=drivesdk)
+- 📄 Have a look at my resume! [https://drive.google.com/file/d/17na7LACn-jar8UuHrpQoCMTxnLe8zd3Z/view?usp=sharing](https://drive.google.com/file/d/17na7LACn-jar8UuHrpQoCMTxnLe8zd3Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
