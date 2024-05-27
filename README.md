@@ -1,9 +1,9 @@
 <h1 align="center">Hello there, I'm Athithyaraagul Sureshkumar</h1>
-<h3 align="center">A passionate ML & DevOps Engineer from India</h3>
+<h3 align="center">A passionate MLOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaraagul&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaraagul" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Cloud Technologies**
+- 🌱 I’m currently learning about **DevOps and Cloud Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Athithyaraagul?tab=repositories](https://github.com/Athithyaraagul?tab=repositories)
 
