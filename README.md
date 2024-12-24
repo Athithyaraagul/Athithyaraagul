@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Athithyaraagul Sureshkumar</h1>
-<h3 align="center">A pre-final year student passionate about MLOps, Data Science & Engineering from India</h3>
+<h3 align="center">A pre-final year student passionate about MLOps from Chennai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaraagul&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaraagul" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **athithyaraagul05@gmail.com**
 
-- 📄 Have a look at my resume! [https://drive.google.com/file/d/1_rc_MEF8pqJlNOnbLXvwah113dFVpyu_/view?usp=sharing](https://drive.google.com/file/d/1_rc_MEF8pqJlNOnbLXvwah113dFVpyu_/view?usp=sharing)
+- 📄 Have a look at my resume! [https://drive.google.com/file/d/1i-bCs3itmEel3TpJb_OOhzZh1dvPsMwK/view?usp=sharing](https://drive.google.com/file/d/1i-bCs3itmEel3TpJb_OOhzZh1dvPsMwK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
