@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **Data Engineering with Databricks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Athithyaraagul?tab=repositories](https://github.com/Athithyaraagul?tab=repositories)
+- 👨‍💻 All of my projects are available [here!](https://github.com/Athithyaraagul?tab=repositories)
 
 - 💬 Ask me about **Machine Learning**
 
