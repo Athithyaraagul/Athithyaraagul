@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/Athithyaraagul?tab=repositories)
 
-- 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **athithyaraagul05@gmail.com**
 
 - 📄 Have a look at my [resume!](https://drive.google.com/file/d/1A7v3hqnrXbk8LtUsWyy9HUUCd1j2HFPB/view?usp=sharing)
