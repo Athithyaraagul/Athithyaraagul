@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athithyaraagul&label=Profile%20views&color=0e75b6&style=flat" alt="athithyaraagul" /> </p>
 
-- 🌱 I’m currently learning about **Data Engineering with Databricks**
+- 🌱 I’m currently learning about **Data Engineering**
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/Athithyaraagul?tab=repositories)
 
 - 📫 How to reach me **athithyaraagul05@gmail.com**
 
-- 📄 Have a look at my [resume!](https://drive.google.com/file/d/10ONii5xTxniZmyzsFCFyypClbhMdaeIl/view?usp=sharing)
+- 📄 Have a look at my [resume!](https://drive.google.com/file/d/1g8mQDQ3iiroYCg8-71wEkrYxI5EnG1tT/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
