@@ -1,12 +1,12 @@
 # Hi 👋, I'm Athithyaraagul Sureshkumar
 
-### Aspiring Data Engineer and final-year Computer Science undergraduate
+### Aspiring Data Engineer and Computer Science undergraduate
 
 <p align="left"> <a href="https://twitter.com/athi0504" target="blank"><img src="https://img.shields.io/twitter/follow/athi0504?logo=twitter&style=for-the-badge" alt="athi0504" /></a> </p>
 
-- 🔭 I'm currently working on **GCP Data Engineering Projects**
+- 🔭 I'm currently working on **Data Engineering Projects**
 
-- 🌱 I'm currently learning **GCP Data Engineering**
+- 🌱 I'm currently learning **Data Engineering**
 
 - 📫 How to reach me **athithyaraagul05@gmail.com**
 
